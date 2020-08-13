@@ -9,19 +9,19 @@
 <b>Project Statement -</b> As a Data Scientist, I have been tasked with investigating the Breast Cancer Wisconsin Data Set. 
 
 <b>Data Source:</b> 
-1.Dr. William H. Wolberg, General Surgery Dept.
+1. Dr. William H. Wolberg, General Surgery Dept.
 University of Wisconsin, Clinical Sciences Center
 Madison, WI 53792
 
-2.W. Nick Street, Computer Sciences Dept.
+2. W. Nick Street, Computer Sciences Dept.
 University of Wisconsin, 1210 West Dayton St., 
 Madison, WI 53706 Street
 
-3.Olvi L. Mangasarian, Computer Sciences Dept.
+3. Olvi L. Mangasarian, Computer Sciences Dept.
 University of Wisconsin, 1210 West Dayton St., 
 Madison, WI 53706
 
-4.Breast Cancer Wisconsin (Diagnostic) Data Set - https://archive.ics.uci.edu/
+4. Breast Cancer Wisconsin (Diagnostic) Data Set - https://archive.ics.uci.edu/
 
 ---------------------------------------------------------------------------------------
 <b>Project Goal: </b> To have an understanding of Breast Cancer and to predict whether the cancer is benign or malignant (M = malignant, B = benign)
