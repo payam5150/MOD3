@@ -28,11 +28,12 @@ Madison, WI 53706
 ---------------------------------------------------------------------------------------
 <b>Attribute Information:</b>
 
-1) ID number
+a) ID number
 
-2) Diagnosis (M = malignant, B = benign)
+b) Diagnosis (M = malignant, B = benign)
 
-Ten real-valued features are computed for each cell nucleus:
+---------------------------------------------------------------------------------------
+<b>Ten real-valued features are computed for each cell nucleus:</b>
 
 a) radius (mean of distances from center to points on the perimeter)
 
