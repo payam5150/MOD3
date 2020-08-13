@@ -26,39 +26,24 @@ Madison, WI 53706
 <b>Project Goal - </b> To have an understanding of Breast Cancer and the difference between (M = malignant, B = benign)
 
 ---------------------------------------------------------------------------------------
-<b>Technologies/Packages:</b>
+<b>Attribute Information:</b>
 
-Python
+1) ID number
 
-Matplotlib
+2) Diagnosis (M = malignant, B = benign)
 
-Seaborn
+Ten real-valued features are computed for each cell nucleus:
 
-Pandas
-
-Numpy
-
-Statsmodels
-
-LinearRegression
-
-Scikit-learn
-
-RepeatedKFold
-
-Math
-
-Folium
-
-OLS
-
-KFold
-
-RepeatedKFold
-
-Cross_val_score
-
-Mean_squared_error
+a) radius (mean of distances from center to points on the perimeter)
+b) texture (standard deviation of gray-scale values)
+c) perimeter
+d) area
+e) smoothness (local variation in radius lengths)
+f) compactness (perimeter^2 / area - 1.0)
+g) concavity (severity of concave portions of the contour)
+h) concave points (number of concave portions of the contour)
+i) symmetry
+j) fractal dimension ("coastline approximation")
 
 ----------------------------------------------------------------------------------------------
 Conclusion: After cleaning our data, model performed at an 81% accuracy across all data. We deleted unnecessary columns that were not needed for this project. Waterfront view, grade, the size of the house and location made the most impact on the house price. 
