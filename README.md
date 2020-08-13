@@ -6,7 +6,7 @@
 
 <b>Date: </b>08-24-20
 
-<b>Project Statement -</b> As a Data Scientsit, I have been tasked with investigating the Breast Cancer Wisconsin Data Set. 
+<b>Project Statement -</b> As a Data Scientist, I have been tasked with investigating the Breast Cancer Wisconsin Data Set. 
 
 <b>Data Source:</b> 
 1. Dr. William H. Wolberg, General Surgery Dept.
