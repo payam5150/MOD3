@@ -27,18 +27,20 @@ Madison, WI 53706
 <b>Project Goal: </b> To have an understanding of Breast Cancer and to predict whether the cancer is benign or malignant (M = malignant, B = benign)
 
 ---------------------------------------------------------------------------------------
-<b>Attribute Information:</b>
 
-a) ID number
-
-b) Diagnosis (M = malignant, B = benign)
-
----------------------------------------------------------------------------------------
 <b>Definition:</b>
 
 a) Malignant = A tumor that may invade its surrounding tissue or spread around the body.
 
 b) Benign = A tumor that does not invade its surrounding tissue or spread around the body.
+
+---------------------------------------------------------------------------------------
+
+<b>Attribute Information:</b>
+
+a) ID number
+
+b) Diagnosis (M = malignant, B = benign)
 
 ---------------------------------------------------------------------------------------
 <b>Ten real-valued features are computed for each cell nucleus:</b>
