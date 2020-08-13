@@ -37,6 +37,7 @@ b) Diagnosis (M = malignant, B = benign)
 <b>Definition:</b>
 
 a) Malignant = A tumor that may invade its surrounding tissue or spread around the body.
+
 b) Benign = A tumor that does not invade its surrounding tissue or spread around the body.
 
 ---------------------------------------------------------------------------------------
