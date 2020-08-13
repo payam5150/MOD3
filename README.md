@@ -1,7 +1,65 @@
-Breast Cancer Wisconsin (Diagnostic) Data Set
-Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. A few of the images can be found at [Web Link]
+<b><center> <h1 style="color:red;font-size:40px;"> Breast Cancer Wisconsin (Diagnostic) Data Set </b></h1></center>
+---------------------------------------------------------------------------------------  
+<b>Author:</b> Payam Abbasi
 
-Separating plane described above was obtained using Multisurface Method-Tree (MSM-T) [K. P. Bennett, "Decision Tree Construction Via Linear Programming." Proceedings of the 4th Midwest Artificial Intelligence and Cognitive Science Society, pp. 97-101, 1992], a classification method which uses linear programming to construct a decision tree. Relevant features were selected using an exhaustive search in the space of 1-4 features and 1-3 separating planes.
+<b>Email: </b>AbbasiRealty@Gmail.com
 
-The actual linear program used to obtain the separating plane in the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
+<b>Date: </b>08-24-20
 
+<b>Project Statement -</b> As a Data Scientsit, I have been tasked with investigating the Breast Cancer Wisconsin Data Set. 
+
+<b>Data Source - </b> 1. Dr. William H. Wolberg, General Surgery Dept.
+University of Wisconsin, Clinical Sciences Center
+Madison, WI 53792
+wolberg '@' eagle.surgery.wisc.edu
+
+2. W. Nick Street, Computer Sciences Dept.
+University of Wisconsin, 1210 West Dayton St., Madison, WI 53706
+street '@' cs.wisc.edu 608-262-6619
+
+3. Olvi L. Mangasarian, Computer Sciences Dept.
+University of Wisconsin, 1210 West Dayton St., Madison, WI 53706
+olvi '@' cs.wisc.edu</a>
+
+---------------------------------------------------------------------------------------
+<b>Project Goal - </b> To have an understanding of Breast Cancer and the difference between (M = malignant, B = benign)
+
+---------------------------------------------------------------------------------------
+<b>Technologies/Packages:</b>
+
+Python
+
+Matplotlib
+
+Seaborn
+
+Pandas
+
+Numpy
+
+Statsmodels
+
+LinearRegression
+
+Scikit-learn
+
+RepeatedKFold
+
+Math
+
+Folium
+
+OLS
+
+KFold
+
+RepeatedKFold
+
+Cross_val_score
+
+Mean_squared_error
+
+----------------------------------------------------------------------------------------------
+Conclusion: After cleaning our data, model performed at an 81% accuracy across all data. We deleted unnecessary columns that were not needed for this project. Waterfront view, grade, the size of the house and location made the most impact on the house price. 
+----------------------------------------------------------------------------------------------
+<b>Technical Team:</b> Please open mod-2-project.ipynb to view the python codes
