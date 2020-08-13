@@ -8,7 +8,7 @@
 
 <b>Project Statement -</b> As a Data Scientsit, I have been tasked with investigating the Breast Cancer Wisconsin Data Set. 
 
-<b>Data Source - </b> 
+<b>Data Source:</b> 
 1. Dr. William H. Wolberg, General Surgery Dept.
 University of Wisconsin, Clinical Sciences Center
 Madison, WI 53792
@@ -23,7 +23,7 @@ Madison, WI 53706
 
 
 ---------------------------------------------------------------------------------------
-<b>Project Goal - </b> To have an understanding of Breast Cancer and the difference between (M = malignant, B = benign)
+<b>Project Goal: </b> To have an understanding of Breast Cancer and the difference between (M = malignant, B = benign)
 
 ---------------------------------------------------------------------------------------
 <b>Attribute Information:</b>
