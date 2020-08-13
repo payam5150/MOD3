@@ -34,27 +34,33 @@ a) ID number
 b) Diagnosis (M = malignant, B = benign)
 
 ---------------------------------------------------------------------------------------
+<b>Definition:</b>
+
+a) Malignant = A tumor that may invade its surrounding tissue or spread around the body.
+b) Benign = A tumor that does not invade its surrounding tissue or spread around the body.
+
+---------------------------------------------------------------------------------------
 <b>Ten real-valued features are computed for each cell nucleus:</b>
 
-a) radius (mean of distances from center to points on the perimeter)
+a) Radius (mean of distances from center to points on the perimeter)
 
-b) texture (standard deviation of gray-scale values)
+b) Texture (standard deviation of gray-scale values)
 
-c) perimeter
+c) Perimeter
 
-d) area
+d) Area
 
-e) smoothness (local variation in radius lengths)
+e) Smoothness (local variation in radius lengths)
 
-f) compactness (perimeter^2 / area - 1.0)
+f) Compactness (perimeter^2 / area - 1.0)
 
-g) concavity (severity of concave portions of the contour)
+g) Concavity (severity of concave portions of the contour)
 
-h) concave points (number of concave portions of the contour)
+h) Concave points (number of concave portions of the contour)
 
-i) symmetry
+i) Symmetry
 
-j) fractal dimension ("coastline approximation")
+j) Fractal dimension ("coastline approximation")
 
 ----------------------------------------------------------------------------------------------
 Conclusion: After cleaning our data, model performed at an 81% accuracy across all data. We deleted unnecessary columns that were not needed for this project. Waterfront view, grade, the size of the house and location made the most impact on the house price. 
