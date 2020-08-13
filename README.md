@@ -23,7 +23,7 @@ Madison, WI 53706
 
 
 ---------------------------------------------------------------------------------------
-<b>Project Goal: </b> To have an understanding of Breast Cancer and the difference between (M = malignant, B = benign)
+<b>Project Goal: </b> To have an understanding of Breast Cancer and to predict whether the cancer is benign or malignant (M = malignant, B = benign)
 
 ---------------------------------------------------------------------------------------
 <b>Attribute Information:</b>
