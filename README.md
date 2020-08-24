@@ -66,6 +66,6 @@ i) Symmetry
 j) Fractal dimension ("coastline approximation")
 
 ----------------------------------------------------------------------------------------------
-Conclusion: After cleaning our data, model performed at an 81% accuracy across all data. We deleted unnecessary columns that were not needed for this project. Waterfront view, grade, the size of the house and location made the most impact on the house price. 
+Conclusion: Our analysis show that there are few variables with more predictive value for the diagnosis. Using PCA, we confirmed there are 5 variables that can be used to ensure explain the variance of 90% of the dataset.
 ----------------------------------------------------------------------------------------------
 <b>Technical Team:</b> Please open mod-3-project.ipynb to view the python codes
