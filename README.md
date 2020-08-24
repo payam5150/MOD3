@@ -34,13 +34,6 @@ a) Malignant = A tumor that may invade its surrounding tissue or spread around t
 
 b) Benign = A tumor that does not invade its surrounding tissue or spread around the body.
 
----------------------------------------------------------------------------------------
-
-<b>Attribute Information:</b>
-
-a) ID number
-
-b) Diagnosis (M = malignant, B = benign)
 
 ---------------------------------------------------------------------------------------
 <b>Ten real-valued features are computed for each cell nucleus:</b>
